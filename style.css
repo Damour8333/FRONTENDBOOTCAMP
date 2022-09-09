@@ -10,3 +10,9 @@ body::before{
     height: 60px;
 }
 /* pour avoir une nav bar qui rete partout  */
+
+#map{
+    width:100%;
+    height: 100%;
+    border-radius: 10px;
+}

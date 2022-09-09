@@ -9,4 +9,4 @@ git remote add origin https://github.com/Damour8333/FRONTENDBOOTCAMP.git
 git push -u origin main
 https://www.youtube.com/watch?v=4sosXZsdy-s&t=822s
 
-j 'en suis a 54.02
+j 'en suis a 1.01 
